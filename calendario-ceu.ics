@@ -1,0 +1,787 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CEU Grupo B//Horario Octubre 2026//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CEU Grupo B
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VEVENT
+UID:0855edad-6aad-5308-9a80-76e3e7f93ed2@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Civil y Mercantil: Crisis matrimoniales
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20260929T103000
+DTEND;TZID=Europe/Madrid:20260929T120000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c26319b2-f78d-52f3-b076-b0a90977bb5e@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Laboral: Fronteras del contrato de trabajo
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20260929T120000
+DTEND;TZID=Europe/Madrid:20260929T133000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:df6f2f27-3fa2-53c2-9037-afad894e24ed@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Viaje al empleo: Radiografía del sector legal 1/2
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20260929T140000
+DTEND;TZID=Europe/Madrid:20260929T153000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8fb089c1-ffc3-5137-abd6-c5315fbe9c26@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Administrativo sancionador: Procedimiento y acto administrativo (1
+ /2)
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20260930T120000
+DTEND;TZID=Europe/Madrid:20260930T133000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:211f8540-7700-5508-aba7-5716708b218f@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Viaje al empleo II: Futuro laboral
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20260930T140000
+DTEND;TZID=Europe/Madrid:20260930T153000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2682d682-9d1d-5e54-9af3-48359a2f2656@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Constitucional: Principios e instituciones básicas (1/4)
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261001T103000
+DTEND;TZID=Europe/Madrid:20261001T120000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0cfb2f2f-2cbb-5ee6-8ab1-6906f259102e@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Laboral: Duración del contrato de trabajo
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261001T120000
+DTEND;TZID=Europe/Madrid:20261001T133000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9eb3a173-9a71-54be-9ad9-43c204e13a2a@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Viaje al empleo: Radiografía del sector legal 2/2
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261001T140000
+DTEND;TZID=Europe/Madrid:20261001T153000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:63724c52-2e34-54bc-863e-b43ca934f012@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Constitucional: Tutela efectiva (2/4)
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261002T103000
+DTEND;TZID=Europe/Madrid:20261002T120000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6ba82bce-990b-5968-b90d-ce18f3012bc5@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Civil y Mercantil: Patria potestad
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261002T120000
+DTEND;TZID=Europe/Madrid:20261002T133000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7b11c466-9450-5c6f-868f-741a531bcca0@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Penal: Penas\, medidas de seguridad y cálculo
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261002T140000
+DTEND;TZID=Europe/Madrid:20261002T153000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6921561b-81eb-5e5b-97d7-77700c1b6030@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Deontología: Estatuto General de la Abogacía
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261006T103000
+DTEND;TZID=Europe/Madrid:20261006T120000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dbf2f5cf-afd3-5d22-bf86-bc1c90f2a1f1@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Laboral: Reordenación del tiempo y lugar de trabajo
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261006T120000
+DTEND;TZID=Europe/Madrid:20261006T133000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:506b3e3d-71cf-5cb9-95b0-c8b040da31c6@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Penal: Jurisdicción y competencia
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261006T140000
+DTEND;TZID=Europe/Madrid:20261006T153000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ddf519f1-c768-5435-8c14-b31b06055c9e@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Penal: Partes en el proceso penal
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261007T103000
+DTEND;TZID=Europe/Madrid:20261007T120000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:87635868-31c9-5519-aa79-32862ffb5b5a@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Penal: Incoación del procedimiento e investigación
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261007T120000
+DTEND;TZID=Europe/Madrid:20261007T133000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fdc919a2-d5ce-5742-9b9a-0e2595558eb4@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Viaje al empleo: Taller de CV
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261007T140000
+DTEND;TZID=Europe/Madrid:20261007T153000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3e151842-6712-52fc-8737-01524c3dfca6@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Administrativo sancionador: Procedimiento y acto administrativo (1
+ /2)
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261008T120000
+DTEND;TZID=Europe/Madrid:20261008T133000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:28f477f1-8746-588f-ab1b-9ff1e78ba048@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Deontología: Estatuto del colegiado
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261008T140000
+DTEND;TZID=Europe/Madrid:20261008T153000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7a28cc19-ef9d-5d9e-89cb-bdedae6a199e@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Seminario: Función del abogado en un ente público
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261009T103000
+DTEND;TZID=Europe/Madrid:20261009T120000
+LOCATION:Salón de Actos\, Facultad de Derecho\, JR 16
+DESCRIPTION:Seminario común a los grupos A\, B y C.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7501da62-d349-56c5-84ac-f6036baa16cf@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Seminario: ¿Qué se espera de un abogado junior?
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261009T123000
+DTEND;TZID=Europe/Madrid:20261009T140000
+LOCATION:Salón de Actos\, Facultad de Derecho\, JR 16
+DESCRIPTION:Seminario común a los grupos A\, B y C.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2ccdad66-9107-50d3-9384-db51da64d8bd@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Penal: Resoluciones procesales
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261013T103000
+DTEND;TZID=Europe/Madrid:20261013T120000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fccbe129-545f-5d6c-b9a8-3edc2612c7d8@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Administrativo: Técnicas de intervención administrativa
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261013T120000
+DTEND;TZID=Europe/Madrid:20261013T133000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:43cda33d-585c-5970-8b0a-4bfd8de63413@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Estrategias procesales civiles y penales (1/3)
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261013T140000
+DTEND;TZID=Europe/Madrid:20261013T153000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7414c59b-f382-51ed-a2a3-20791501a689@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:LEGAL DAY: Foro de empleo\, Campus Moncloa
+STATUS:CONFIRMED
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+LOCATION:Campus Moncloa
+DESCRIPTION:LEGAL DAY\, Foro de Empleo. Asistencia obligatoria. El documen
+ to no indica hora exacta.
+END:VEVENT
+BEGIN:VEVENT
+UID:f30c4e48-dd88-5b4e-a9f0-044cb0108d1f@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Constitucional: Contencioso constitucional I (3/4)
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261015T103000
+DTEND;TZID=Europe/Madrid:20261015T120000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6c3941e8-0eb2-52ba-98de-856e833e681c@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Civil y Mercantil: Menores y discapacidad
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261015T120000
+DTEND;TZID=Europe/Madrid:20261015T133000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2761aaa3-cc16-51ad-a921-f0ceaa67f4ed@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Penal: Asistencia en comisarías y juzgados de guardia
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261015T140000
+DTEND;TZID=Europe/Madrid:20261015T153000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:272178cd-8c74-5fce-922d-57555dfdf765@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Penal: Recuperación clase nº 1 (grupo B)
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261016T103000
+DTEND;TZID=Europe/Madrid:20261016T120000
+DESCRIPTION:Recuperación clase nº 1 de Penal\, grupo B. Indicada en casi
+ lla de imprevistos.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e7bee229-88b6-5ded-a648-af5fe3ca06ae@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Viaje al empleo II: El abogado corporativo
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261016T120000
+DTEND;TZID=Europe/Madrid:20261016T133000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8ec0344a-8343-5477-97a7-2116c4d470b4@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Penal: Medidas cautelares personales
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261016T140000
+DTEND;TZID=Europe/Madrid:20261016T153000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ac040613-36ec-5cee-940d-ae11d6fb7c6d@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Administrativo sancionador: Principios de potestad sancionadora
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261020T103000
+DTEND;TZID=Europe/Madrid:20261020T120000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:95132c4b-b0ad-5346-92db-d4cb3f4f1356@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Laboral: Estructura y cuantía del salario
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261020T120000
+DTEND;TZID=Europe/Madrid:20261020T133000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b96038c7-0b86-5c79-9871-b96b93737d59@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Viaje al empleo: Taller de entrevista
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261020T140000
+DTEND;TZID=Europe/Madrid:20261020T153000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:08578b00-7db0-5916-ab64-bde9dbec2348@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Deontología: Organización colegial
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261021T103000
+DTEND;TZID=Europe/Madrid:20261021T120000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:10193d0f-4be3-5745-b79d-a773a3dabd85@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Derecho UE: Sistema jurisdiccional de la Unión Europea
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261021T120000
+DTEND;TZID=Europe/Madrid:20261021T133000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:121b8bfc-deaa-54b8-80f2-ee53a43adb1e@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Penal: Sumario y juicio oral
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261021T140000
+DTEND;TZID=Europe/Madrid:20261021T153000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0583bc1a-8fc2-5a0d-b126-abc76616638f@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Constitucional: Contencioso constitucional II (4/4)
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261022T103000
+DTEND;TZID=Europe/Madrid:20261022T120000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fb4138a3-2934-52de-a34c-daa0c79cb361@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Administrativo sancionador: Procedimiento y acto administrativo (2
+ /2)
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261022T120000
+DTEND;TZID=Europe/Madrid:20261022T133000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ca5f6b54-1981-54c6-ac45-dafcd6a13606@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Deontología: Protección de datos
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261022T140000
+DTEND;TZID=Europe/Madrid:20261022T153000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ca5d6c87-b4ec-52f7-af8d-bc9163952d27@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Penal: Responsabilidad penal y civil derivada de delito
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261023T103000
+DTEND;TZID=Europe/Madrid:20261023T120000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cfcb49ce-fb8f-5459-9701-186a23e21c68@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Viaje al empleo II: El abogado corporativo
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261023T120000
+DTEND;TZID=Europe/Madrid:20261023T133000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bf584ee8-00bf-54db-b1e2-5dfa1f3d3925@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Penal: Medidas cautelares reales
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261023T140000
+DTEND;TZID=Europe/Madrid:20261023T153000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2e3a000b-d079-5c41-b756-bf8713d9d742@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Estrategias procesales civiles y penales (2/3)
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261027T103000
+DTEND;TZID=Europe/Madrid:20261027T120000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d7d6d9ba-c76c-5f18-9ce0-36996c46576d@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Laboral: Representación legal y negociación colectiva
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261027T120000
+DTEND;TZID=Europe/Madrid:20261027T133000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:08c6bd2b-75aa-5e78-987b-896f6bc4a748@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Penal: Entradas y registros
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261027T140000
+DTEND;TZID=Europe/Madrid:20261027T153000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e169b547-9a9a-5f94-a59d-97161f077165@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Viaje al empleo: Role plays (grupo B)
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261028T120000
+DTEND;TZID=Europe/Madrid:20261028T150000
+LOCATION:Salón de actos
+DESCRIPTION:Role plays del grupo B. El grupo A tiene un horario distinto.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9967f510-27ff-5e04-81ea-f3eb15d9287a@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Derecho UE: Contencioso de legalidad y responsabilidad
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261029T103000
+DTEND;TZID=Europe/Madrid:20261029T120000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a407d1c1-cd65-54bc-af76-16de5e8dbeb6@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Civil y Mercantil: Filiación\, adopción y acogimiento
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261029T120000
+DTEND;TZID=Europe/Madrid:20261029T133000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6b698b59-d3c5-561e-b2ba-d3fbec59cd37@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Laboral: Incumplimiento y sanciones
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261029T140000
+DTEND;TZID=Europe/Madrid:20261029T153000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:31169d66-3b33-57c8-9127-829a4b1bf5eb@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Derecho UE: Aplicación judicial y primacía
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261030T103000
+DTEND;TZID=Europe/Madrid:20261030T120000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:24fdfec5-b0c3-57ea-b1e4-a53f08c55557@ceu-grupob
+DTSTAMP:20261008T120000Z
+SUMMARY:Penal: Diligencias de investigación
+STATUS:CONFIRMED
+DTSTART;TZID=Europe/Madrid:20261030T120000
+DTEND;TZID=Europe/Madrid:20261030T133000
+DESCRIPTION:Máster Acceso a la Abogacía y Procura\, CEU San Pablo. Grupo
+  B. Fuente: horario octubre 2026\, versión 3.
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Clase CEU (grupo B)
+END:VALARM
+END:VEVENT
+END:VCALENDAR
