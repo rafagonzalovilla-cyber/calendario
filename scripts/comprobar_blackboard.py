@@ -34,8 +34,7 @@ def main():
             body = resp.read(20000)
         looks_like_pdf = body.startswith(b"%PDF")
         login_indicator = any(x in final_url.lower() for x in ("login", "saml", "oauth", "microsoftonline"))
-        report(f"### Acceso desde GitHub\nURL final: `{urlparse(final_url).netloc}`  
-Tipo: `{content_type}`")
+        report(f"### Acceso desde GitHub\\nURL final: `{urlparse(final_url).netloc}`  \\nTipo: `{content_type}`")
         if looks_like_pdf:
             report("Se ha recibido un PDF, pero aún falta validar su formato y generar eventos. No se modifica el calendario.")
         elif login_indicator or "text/html" in content_type.lower():
