@@ -1,0 +1,17 @@
+name: CEU - comprobar calendario y acceso Blackboard
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 7 * * *'
+
+permissions:
+  contents: read
+
+jobs:
+  comprobar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validar ICS y comprobar acceso a Blackboard
+        run: python scripts/comprobar_blackboard.py
